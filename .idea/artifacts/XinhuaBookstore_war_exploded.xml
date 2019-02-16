@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="XinhuaBookstore:war exploded">
-    <output-path>D:/apache-tomcat-8.0.52/webapps/XinhuaBookstore</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/XinhuaBookstore_war_exploded</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -29,9 +29,9 @@
           <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.3.0" />
           <element id="library" level="project" name="Maven: com.zaxxer:HikariCP-java6:2.3.13" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
-          <element id="library" level="project" name="Maven: com.baidu:ueditor:1.1.2" />
         </element>
       </element>
+      <element id="library" level="project" name="Maven: com.baidu:ueditor:1.1.2" />
       <element id="javaee-facet-resources" facet="news/web/Web" />
     </root>
   </artifact>

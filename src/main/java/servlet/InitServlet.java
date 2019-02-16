@@ -43,5 +43,6 @@ public class InitServlet extends HttpServlet {
 			cex.printStackTrace();
 		}	
 		System.out.println("正在初始化。。。。");
+		System.out.println("测试一下");
 	}
 }
